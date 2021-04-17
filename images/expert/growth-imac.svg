@@ -1,0 +1,34 @@
+<svg width="166" height="140" viewBox="0 0 166 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M159 108.583C159 114.339 154.559 119 149.087 119H16.913C11.441 119 7 114.339 7 108.583V11.4168C7 5.661 11.441 1 16.913 1H149.087C154.559 1 159 5.661 159 11.4168V108.583Z" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 133H127" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81 119V133" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 91H159" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29 73L75.8679 29L108.472 59.6087L137 32.8261" stroke="#3F3F3F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="29" cy="73" r="6" transform="rotate(-90 29 73)" fill="#C2C2C2"/>
+<circle cx="29" cy="73" r="4.5" transform="rotate(-90 29 73)" stroke="#151515" stroke-width="3"/>
+<circle cx="29" cy="73" r="6" transform="rotate(-90 29 73)" stroke="#151515" stroke-width="2"/>
+<circle cx="77" cy="29" r="6" transform="rotate(-90 77 29)" fill="#C2C2C2"/>
+<circle cx="77" cy="29" r="4.5" transform="rotate(-90 77 29)" stroke="#151515" stroke-width="3"/>
+<circle cx="77" cy="29" r="6" transform="rotate(-90 77 29)" stroke="#151515" stroke-width="2"/>
+<circle cx="109" cy="59" r="6" transform="rotate(-90 109 59)" fill="#C2C2C2"/>
+<circle cx="109" cy="59" r="4.5" transform="rotate(-90 109 59)" stroke="#151515" stroke-width="3"/>
+<circle cx="109" cy="59" r="6" transform="rotate(-90 109 59)" stroke="#151515" stroke-width="2"/>
+<circle cx="139" cy="31" r="6" transform="rotate(-90 139 31)" fill="#C2C2C2"/>
+<circle cx="139" cy="31" r="4.5" transform="rotate(-90 139 31)" stroke="#151515" stroke-width="3"/>
+<circle cx="139" cy="31" r="6" transform="rotate(-90 139 31)" stroke="#151515" stroke-width="2"/>
+<circle cx="159" cy="91" r="6" transform="rotate(-90 159 91)" fill="#C2C2C2"/>
+<circle cx="159" cy="91" r="4.5" transform="rotate(-90 159 91)" stroke="#151515" stroke-width="3"/>
+<circle cx="159" cy="91" r="6" transform="rotate(-90 159 91)" stroke="#151515" stroke-width="2"/>
+<circle cx="7" cy="91" r="6" transform="rotate(-90 7 91)" fill="#C2C2C2"/>
+<circle cx="7" cy="91" r="4.5" transform="rotate(-90 7 91)" stroke="#151515" stroke-width="3"/>
+<circle cx="7" cy="91" r="6" transform="rotate(-90 7 91)" stroke="#151515" stroke-width="2"/>
+<circle cx="81" cy="117" r="6" transform="rotate(-90 81 117)" fill="#C2C2C2"/>
+<circle cx="81" cy="117" r="4.5" transform="rotate(-90 81 117)" stroke="#151515" stroke-width="3"/>
+<circle cx="81" cy="117" r="6" transform="rotate(-90 81 117)" stroke="#151515" stroke-width="2"/>
+<circle cx="33" cy="133" r="6" transform="rotate(-90 33 133)" fill="#C2C2C2"/>
+<circle cx="33" cy="133" r="4.5" transform="rotate(-90 33 133)" stroke="#151515" stroke-width="3"/>
+<circle cx="33" cy="133" r="6" transform="rotate(-90 33 133)" stroke="#151515" stroke-width="2"/>
+<circle cx="129" cy="133" r="6" transform="rotate(-90 129 133)" fill="#C2C2C2"/>
+<circle cx="129" cy="133" r="4.5" transform="rotate(-90 129 133)" stroke="#151515" stroke-width="3"/>
+<circle cx="129" cy="133" r="6" transform="rotate(-90 129 133)" stroke="#151515" stroke-width="2"/>
+</svg>

@@ -1,0 +1,43 @@
+@mixin bold() {
+  @import url("/fonts/CerebriSans-Bold.ttf");
+  font-family: Cerebri Sans;
+  font-weight: 700;
+}
+@mixin regular() {
+  @import url("/fonts/CerebriSans-Regular.ttf");
+  font-family: Cerebri Sans;
+  font-weight: 400;
+}
+@mixin light() {
+  @import url("/fonts/CerebriSans-Light.ttf");
+  font-family: Cerebri Sans;
+  font-weight: 300;
+}
+
+// Breakpionts
+
+// @media (min-width: 64em) {
+//   //
+// }
+// // 640px, 1024px, 1400px
+// $breakpoints-up: (
+//   "medium": "40em",
+//   "large": "64em",
+//   "xlarge": "87.5em",
+// );
+// // 639px, 1023px, 1399px
+// $breakpoints-down: (
+//   "small": "39.975em",
+//   // "medium": "63.99em",
+//   "medium": "63.9375em",
+
+@mixin maxWidth($size) {
+  @media (max-width: $size) {
+    @content;
+  }
+}
+@mixin minWidth($size) {
+  @media (min-width: $size) {
+    @content;
+  }
+}
